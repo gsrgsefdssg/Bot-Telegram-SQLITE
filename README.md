@@ -25,7 +25,7 @@ python bot.py
 
 ## EN
 
-#My First Telegram Bot 🤖
+# My First Telegram Bot 🤖
 
 This is my **very first Telegram bot**. Written in `pyTelegramBotAPI` (telebot) using SQLite.
 
