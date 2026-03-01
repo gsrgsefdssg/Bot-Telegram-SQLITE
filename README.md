@@ -21,6 +21,7 @@
 
 ## 🚀 Запуск
 pip install pyTelegramBotAPI
+
 python bot.py
 
 ## EN
