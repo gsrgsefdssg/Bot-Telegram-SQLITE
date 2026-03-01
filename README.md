@@ -44,4 +44,5 @@ The bot was created when I first started learning Python. That's when it all hap
 
 ## 🚀 Run
 pip install pyTelegramBotAPI
+
 python bot.py
